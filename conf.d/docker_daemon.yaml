@@ -21,7 +21,7 @@ init_config:
   # tls_verify: True
 
 instances:
-  - ## Daemon and system configuration
+    ## Daemon and system configuration
     ##
 
     # URL of the Docker daemon socket to reach the Docker API. HTTP/HTTPS also works.
